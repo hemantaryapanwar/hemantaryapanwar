@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hemantaryapanwar
+- 👋 Hi, I’m @hemantaryapanwar 
+- ✔ I've worked as Frontend Developer Intern in Curer
 - 👀 I’m interested in Machine learning , Web development , DSA 
-- 🌱 I’m currently learning NLP and image processing 
-- 💞️ I’m looking to collaborate on Machine learning  
+- 🌱 I’m currently learning NLP and backend technologies 
+- 💞️ I’m looking to collaborate in any development role 
 - 📫 How to reach me hemantaryapanwar545@gmail.com
 
 <!---
